@@ -28,5 +28,5 @@ Using it looks like this::
 
 .. image:: sample.png
 
-.. image:: http://mybinder.org/badge.svg
-   :target: https://beta.mybinder.org/v2/gh/fkiaru/JupyLearn/
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/fkiaru/JupyLearn/HEAD
