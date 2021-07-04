@@ -29,4 +29,4 @@ Using it looks like this::
 .. image:: sample.png
 
 .. image:: http://mybinder.org/badge.svg
-   :target: https://beta.mybinder.org/v2/gh/fkiaru/mobilechelonian/master?filepath=try.ipynb
+   :target: https://beta.mybinder.org/v2/gh/fkiaru/JupyLearn/master?filepath=ApprendrePythonCM1_inline.ipynb
